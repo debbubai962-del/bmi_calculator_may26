@@ -1,5 +1,5 @@
 import streamlit as st
-from google import genai as genai
+from google import genai 
 
 google_api_key = st.secrets["google"]["api_key"]
 
